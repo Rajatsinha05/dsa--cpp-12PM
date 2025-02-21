@@ -32,8 +32,6 @@ int main()
     int b = 10;
     int c = 20;
     int d = 20;
-    bool result = ;
-    cout << result << endl;
 
     return 0;
 }
